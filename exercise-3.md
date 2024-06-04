@@ -30,29 +30,6 @@ In this Exercise, you will learn how to upload objects to your S3 bucket using t
 
 ![alt text](./images/exercise2/Screenshot_6.png "Images exercise 2") 
 
-#### Task 2: Exploring Different Object Storage Classes:
-Amazon S3 offers several storage classes designed to optimize cost and performance based on the access patterns and retention requirements of your data. Here are some of the most commonly used storage classes:
 
-- **Standard Storage:** Provides high durability, availability, and performance for frequently accessed data.
-- **Standard-IA (Infrequent Access):** Offers the same durability and availability as standard storage but at a lower cost for infrequently accessed data.
-- **One Zone-IA:** Similar to Standard-IA but stores data in a single Availability Zone, reducing costs further.
-- **Intelligent-Tiering:** Automatically moves objects between different storage tiers based on access patterns, optimizing costs without sacrificing performance.
-- **Glacier and Glacier Deep Archive:** Designed for long-term archival storage at a very low cost, with retrieval times ranging from minutes to hours.
 
-##### To explore different storage classes:
-- In the S3 bucket dashboard, select one or more objects that you uploaded in the previous step.
-- Click on the **"Actions"** dropdown menu and select **"Edit storage class."**
-
-![alt text](./images/exercise2/Screenshot_7.png "Images exercise 2") 
-- Choose the desired **storage class** from the dropdown menu. 
-You can experiment with different storage classes to understand their characteristics and costs.
-###### NOTE: learn more about the [ storage classes and their pricing](https://aws.amazon.com/s3/storage-classes/) by clicking on the link
-![alt text](./images/exercise2/Screenshot_8.png "Images exercise 2")
-
-- Click on the **"Save changes"** button to apply the changes to the selected objects.
-
-![alt text](./images/exercise2/Screenshot_9.png "Images exercise 2")
-
-**Congratulations!** You have successfully uploaded objects to your S3 bucket using the AWS Management Console and explored different object storage classes available in Amazon S3. 
-
-You can now proceed to the **next lab** to learn about **managing objects** in your S3 bucket
+**Congratulations!** You have successfully uploaded objects to your S3 bucket using the AWS Management Console 

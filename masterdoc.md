@@ -2,18 +2,18 @@
     {
       "Name": "LAB Onboarding",
       "Language": "English",
-      "BaseURL": "https://github.com/SachithaBS/Repo_internship/blob/main/Baselabguide/",
+      "BaseURL": "https://github.com/SachithaBS/Repo_S3Labguide/blob/main/",
       "Files": [
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/Firstpage.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_S3Labguide/main/Exercise-1.md",
           "Order": 1
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/secondpage.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_S3Labguide/main/exercise-2.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/thirdpage.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_S3Labguide/main/exercise-3.md",
             "Order": 3
         }
         

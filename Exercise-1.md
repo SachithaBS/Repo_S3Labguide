@@ -18,6 +18,6 @@ Through practical labs and step-by-step instructions, users will learn how to cr
 
 - Familiarize users with the basic concepts of cloud object storage and Amazon S3.
 - Enable users to create and configure S3 buckets according to best practices.
-- Teach users how to upload, manage, and secure objects within S3 buckets.
-- Provide users with the foundational knowledge needed to work with Amazon S3 effectively in real-world scenarios.
+- Teach users how to upload objects within S3 buckets.
+
     
